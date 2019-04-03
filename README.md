@@ -1,4 +1,4 @@
-# UnityScripts
+# Unity Scripts - By Hyblocker
 A collection of scripts I've made over the past two years, which do random things with the Unity Game Engine. Note that some of them might be broken, as I've not bothered to update most of them. The versions of Unity used range from Unity 5.0 up to Unity 2018.2.
 
 # Usage & Licensing
