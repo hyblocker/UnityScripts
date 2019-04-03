@@ -7,6 +7,7 @@ using UnityEngine;
 * RenderAspectRatio is a hardcoded string, specifying the aspect ratio.
 * Examples: 4:3, 16:9
 */
+[RequireComponent(typeof(Camera))]
 public class AspectRatio : MonoBehaviour {
 
 	public string RenderAspectRatio = "16:9";
